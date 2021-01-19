@@ -1,0 +1,33 @@
+h1{
+   color: purple;
+    font-size: 40px;
+    font-family:Helvetica,sans-serif;
+    text-align: left;
+    
+}
+
+p{
+   color: coral;
+    font font-weight: 800;
+    text-decoration: line-through;
+}
+table{
+
+     font-family : Helvetica, sans-serif;
+      border-collapse:collapse;
+      border-width   : 1px;
+      border-style   : solid;
+      border-color   : #9966FF;
+    text-align: center;
+   
+      
+    
+}
+
+
+th {
+     font-weight: 800;
+    font-weight     : 800;
+    background-color: #9966FF;
+    color           : #FFFFFF;
+}
